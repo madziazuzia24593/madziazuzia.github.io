@@ -38,10 +38,10 @@ li a:hover {
 
 
 }
-p {
+#demo {
     color:black;
     font-family: 'Brush Script MT';
-    font-size: 30px;;
+    font-size: 30px;
 }
 button {
     background-color: silver;
@@ -54,4 +54,27 @@ button {
     font-size: 12px;
     margin: 4px 2px;
     cursor: pointer;
+}
+#list {
+	background-color: white;
+    color:black;
+    font-size: 16px;
+	list-style-type:square;
+    }
+  #mySlides {display:none}
+  p {
+  	background-color: SILVER;
+  	font-size: 20px;
+  	font-family: 'Comfortaa'
+  }
+ .paragraphs{
+ 		background-color: #f2f2f2;
+  	font-size: 24px;
+  	font-family: 'Comic'
+ }
+ .dark{
+ 	background-color: #e6e6e6;
+ }
+.darker{
+	background-color: #d9d9d9;
 }
